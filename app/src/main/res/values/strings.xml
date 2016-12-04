@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Quitanda Verde</string>
+
+    <string name="navigation_drawer_open">Abrir Menu</string>
+    <string name="navigation_drawer_close">Fechar Menu</string>
+
+    <string name="action_settings">Configuração</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_cart">Carrinho</string>
+    <string name="title_activity_account">Conta</string>
+    <string name="title_activity_register">Nova Conta</string>
+    <string name="title_activity_products">Produtos</string>
+    <string name="title_activity_product_details">Detalhes</string>
+    <string name="title_activity_splah">Quitanda Verde</string>
+    <string name="preferences_file_key">QV_PFK</string>
+    <string name="user_logged">USER_LOGGED</string>
+    <string name="main_button">Montar minha cesta!</string>
+    <string name="addToCart_button">Adicionar ao carrinho</string>
+    <string name="removeFromCart_button">Retirar do carrinho</string>
+    <string name="add_product">Produto adicionado ao carrinho</string>
+    <string name="remove_product">Produto retirado do carrinho</string>
+    <string name="remove_none_product">Este produto não está no carrinho</string>
+    <string name="details_name">Produto:</string>
+    <string name="details_value">Preço: R$</string>
+    <string name="register_btn">Cadastrar</string>
+    <string name="register_success">Usuário cadastrado</string>
+    <string name="register_invalid">Não foi possível cadastrar o usuário</string>
+    <string name="login_invalid">Usuário inválido</string>
+    <string name="account_error">Usuário não encontrado</string>
+
+    <string name="prompt_name">Nome</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="action_new_account">Quero me cadastrar!</string>
+    <string name="error_invalid_email">Email inválido</string>
+    <string name="error_invalid_password">Senha muito pequena</string>
+    <string name="error_incorrect_password">Senha incorreta</string>
+    <string name="error_field_required">Este campo é obrigatório</string>
+</resources>
